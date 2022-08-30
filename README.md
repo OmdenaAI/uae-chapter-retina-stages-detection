@@ -1,8 +1,8 @@
-# chapter-project-repository-template
-Use this Repository as a template for creating Local Chapter Repositories
+# Omdena UAE Chapter
 
 
-# [Chapter Challenge Name]
+
+# Machine Learning Classifier for Retina Multi Stages Formation/Deformation Detection
 
 
 ## Contribution Guidelines
