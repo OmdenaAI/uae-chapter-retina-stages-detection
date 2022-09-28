@@ -20,3 +20,6 @@ Note : Please Follow the below guidelines to create task folders
 
 Resources: 
 Task 1 Dataset:  https://drive.google.com/drive/folders/1rAgElzDqcopkqhaHFQc6-avkwAsaoJHJ?usp=sharing 
+
+Task Folder 
+task-1-oct-preprocessing-filtering
