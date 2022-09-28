@@ -14,8 +14,8 @@ Note : Please Follow the below guidelines to create task folders
 |1|OCT Image preprocessing/Filtering|The dataset consists a train file with 1000. and 10 images for testing|
 |2|OCT features (coefficient) extraction and selection / Polynomial Curve fitting|         |
 |3|Machine Learning Modeling|Prepare/Explore ML algorithm over extracted feature and Apply ML/DP models over the extracted features to find the highest accuracy model|
-|4|         |         |
-|5|Political Rationale| The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
+|4|Deployment and Visualization|Building Dashboard to visualize the output/Deployment and Generate final report and recommendation/ Evaluate Model accuracy|
+ 
 
 
 Resources: 
