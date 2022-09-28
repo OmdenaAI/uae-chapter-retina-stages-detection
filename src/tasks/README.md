@@ -18,10 +18,10 @@ Note : Please Follow the below guidelines to create task folders
  
 
 
-###Resources: 
+### Resources: 
 Task 1 Dataset:  https://drive.google.com/drive/folders/1rAgElzDqcopkqhaHFQc6-avkwAsaoJHJ?usp=sharing 
 
-####Task Folder:  
+#### Task Folder:  
 task-1-oct-preprocessing-filtering
 task-2-feature_extraction_selection
 task-3-ml_modeling
